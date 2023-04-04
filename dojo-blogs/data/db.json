@@ -1,0 +1,7 @@
+{"posts" :[
+    {"title": "welcome to dojo blogs", "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.", "id": 1,"tags": ["css", "webdev", "coding"]},
+    {"title": "welcome to dojo blogs", "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.", "id": 2,"tags": ["css", "webdev", "coding"]},
+    {"title": "welcome to dojo blogs", "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.", "id": 3,"tags": ["css", "webdev", "coding"]},
+    {"title": "welcome to dojo blogs", "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.", "id": 4,"tags": ["css", "webdev", "coding"]},
+    {"title": "welcome to dojo blogs", "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.", "id": 5,"tags": ["css", "webdev", "coding"]}
+]}
